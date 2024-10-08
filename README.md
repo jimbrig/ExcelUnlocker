@@ -18,9 +18,11 @@
 
 ## Demo
 
-Below is a screenshot and a demo GIF of the Excel Unlocker tool in action:
+Below is a demo GIF of the Excel Unlocker tool in action:
 
-<hr>
+https://github.com/user-attachments/assets/44a31e1a-0e00-429e-8f96-e583d7a805d2
+
+<br>
 
 <p align="center">
   <stong>Screentshot:</strong>
@@ -28,15 +30,6 @@ Below is a screenshot and a demo GIF of the Excel Unlocker tool in action:
   <img src="assets/img/demo.png" alt="Demo" width="65%">
 </p>
 
-<hr>
-
-<p align="center">
-  <stong>Demo GIF:</strong>
-  <br>
-  <video width="65%" controls>
-    <source src="assets/img/demo.mp4" type="video/mp4">
-  </video>
-</p>
 
 ## Installation
 
