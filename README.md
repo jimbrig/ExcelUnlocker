@@ -44,8 +44,8 @@ Below is a screenshot and a demo GIF of the Excel Unlocker tool in action:
 > - **Portable** - Excel Unlocker is a standalone executable that requires no installation. Simply download and run it.
 > - **Windows Only** - This tool is designed to run on Windows operating systems only.
 
-- You can find the compiled C# executable in the `build/` directory of this repository: [ExcelUnlocker.exe](build/ExcelUnlocker.exe).
-- You can also download the latest release from the [Releases](https://github.com/jimbrig/ExcelUnlocker/releases) page.
+- You can find the compiled C# executable in the `build/` directory of this repository: [ExcelUnlocker.exe](Build/ExcelUnlocker.exe).
+- You can also download the latest release from the [Releases](https://github.com/jimbrig/ExcelUnlocker/releases/) page.
 
 You can also install via `gh-cli`:
 
